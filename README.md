@@ -12,4 +12,4 @@ WeatherApp is a simple application that allows users to obtain current weather i
 3. Display Weather by Location
 
 ## Reference
-[Weather app in android studio using Kotlin]([[(https://www.youtube.com/watch?v=dvxNjWrvtow&t=284s))
+[Weather app in android studio using Kotlin](https://www.youtube.com/watch?v=dvxNjWrvtow&t=284s)
