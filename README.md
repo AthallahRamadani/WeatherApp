@@ -7,6 +7,7 @@ WeatherApp adalah aplikasi sederhana yang memungkinkan pengguna untuk mendapatka
 ## Tech Stack
 1. Kotlin
 2. Weather API
+3. GPS
 
 ## Function
 1. Search Location
